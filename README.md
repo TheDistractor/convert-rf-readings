@@ -4,7 +4,7 @@ convert-rf-readings
 Allows conversion to/from &lt;band> referenced and &lt;bandless> referenced readings within HouseMon App (v0.9.0)
 
 **Note**:The processing/storage of readings in HouseMon 0.9.0 is an early reference and may change, but this little utility
-combined with use of these upgraded core Gadgets (https://github.com/TheDistractor/flow-ext/tree/master/gadgets/housemon/rf)[here]
+combined with use of these upgraded core Gadgets [here](https://github.com/TheDistractor/flow-ext/tree/master/gadgets/housemon/rf)
 will allow you to at least handle multiple rf network inputs from say 868Mhz and 433Mhz simultaneously.
 
 
