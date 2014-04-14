@@ -15,7 +15,9 @@ To install (First STOP Housemon/Jeebus if its running):
     go get https://github.com/TheDistractor/flow-ext
     #get this little utility
     go get https://github.com/TheDistractor/convert-rf-readings
+    #cd to conver-rf-readings folder
     go build
+    #run with initial help screen
     ./convert-rf-readings help
     #now run your conversion with referencing the path to your Housemon data folder - something like:
     ./convert-rf-readings --path '../../jcw/housemon/data
